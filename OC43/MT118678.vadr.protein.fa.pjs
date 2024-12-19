@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "MT118678.vadr.protein.fa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "/data/vadr-models-hcov/OC43//MT118678.vadr.protein.fa",
+  "number-of-letters": 14792,
+  "number-of-sequences": 12,
+  "last-updated": "2024-12-13T23:22:00",
+  "number-of-volumes": 1,
+  "bytes-total": 53218,
+  "bytes-to-cache": 15053,
+  "files": [
+    "MT118678.vadr.protein.fa.pdb",
+    "MT118678.vadr.protein.fa.phr",
+    "MT118678.vadr.protein.fa.pin",
+    "MT118678.vadr.protein.fa.pot",
+    "MT118678.vadr.protein.fa.psq",
+    "MT118678.vadr.protein.fa.ptf",
+    "MT118678.vadr.protein.fa.pto"
+  ]
+}

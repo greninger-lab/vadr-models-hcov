@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "NC_006577.vadr.protein.fa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "/data/vadr-models-hcov/HKU1//NC_006577.vadr.protein.fa",
+  "number-of-letters": 14840,
+  "number-of-sequences": 10,
+  "last-updated": "2024-12-06T22:32:00",
+  "number-of-volumes": 1,
+  "bytes-total": 53034,
+  "bytes-to-cache": 15083,
+  "files": [
+    "NC_006577.vadr.protein.fa.pdb",
+    "NC_006577.vadr.protein.fa.phr",
+    "NC_006577.vadr.protein.fa.pin",
+    "NC_006577.vadr.protein.fa.pot",
+    "NC_006577.vadr.protein.fa.psq",
+    "NC_006577.vadr.protein.fa.ptf",
+    "NC_006577.vadr.protein.fa.pto"
+  ]
+}

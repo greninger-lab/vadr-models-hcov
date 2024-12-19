@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "PQ187621.vadr.protein.fa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "/data/vadr-models-hcov/NL63//PQ187621.vadr.protein.fa",
+  "number-of-letters": 13283,
+  "number-of-sequences": 8,
+  "last-updated": "2024-12-12T00:28:00",
+  "number-of-volumes": 1,
+  "bytes-total": 51242,
+  "bytes-to-cache": 13508,
+  "files": [
+    "PQ187621.vadr.protein.fa.pdb",
+    "PQ187621.vadr.protein.fa.phr",
+    "PQ187621.vadr.protein.fa.pin",
+    "PQ187621.vadr.protein.fa.pot",
+    "PQ187621.vadr.protein.fa.psq",
+    "PQ187621.vadr.protein.fa.ptf",
+    "PQ187621.vadr.protein.fa.pto"
+  ]
+}
