@@ -1,4 +1,4 @@
-MODEL MT118678 blastdb:"MT118678.vadr.protein.fa" length:"30737"
+MODEL MT118678 blastdb:"MT118678.vadr.protein.fa" group:"OC43" length:"30737"
 FEATURE MT118678 type:"gene" coords:"210..21496:+" parent_idx_str:"GBNULL" gene:"ORF1ab"
 FEATURE MT118678 type:"CDS" coords:"210..13340:+,13340..21496:+" parent_idx_str:"GBNULL" gene:"ORF1ab" canon_splice_sites:"1" product:"ORF1ab polyprotein" exception:"ribosomal slippage" note:"pp1ab; translated by -1 ribosomal frameshift"
 FEATURE MT118678 type:"CDS" coords:"210..13361:+" parent_idx_str:"GBNULL" gene:"ORF1ab" product:"ORF1a polyprotein" note:"pp1a"

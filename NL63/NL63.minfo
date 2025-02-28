@@ -1,4 +1,4 @@
-MODEL PQ187621 blastdb:"PQ187621.vadr.protein.fa" length:"27553"
+MODEL PQ187621 blastdb:"PQ187621.vadr.protein.fa" group:"NL63" length:"27553"
 FEATURE PQ187621 type:"gene" coords:"287..20475:+" parent_idx_str:"GBNULL" gene:"ORF1ab"
 FEATURE PQ187621 type:"CDS" coords:"287..12439:+,12439..20475:+" parent_idx_str:"GBNULL" gene:"ORF1ab" canon_splice_sites:"1" product:"ORF1ab polyprotein" exception:"ribosomal slippage" note:"pp1ab; translated by -1 ribosomal frameshift" fst_exc:"16544..16639:+"
 FEATURE PQ187621 type:"CDS" coords:"287..12469:+" parent_idx_str:"GBNULL" gene:"ORF1ab" product:"ORF1a polyprotein" note:"pp1a"
