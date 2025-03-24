@@ -25,7 +25,7 @@ Steps for using VADR for HPIV annotation:
  
 2. Clone the latest HCoV VADR model library from this repository (current release v1.0)<br/>
    `git clone git@github.com:greninger-lab/vadr-models-hcov.git`<br/>
-   <!-- or download the current release from [here](https://github.com/greninger-lab/vadr-models-hpiv/releases/tag/v1.0).</br> -->
+   or download the current release from [here](https://github.com/greninger-lab/vadr-models-hcov/releases/tag/v1.0).</br>
    Note the path to the directory name created plus the specific species
    subdirectory (e.g. /path/to/vadr-models-hcov/229E) as `<hcov-models-dir-path>`
    for step 4.
