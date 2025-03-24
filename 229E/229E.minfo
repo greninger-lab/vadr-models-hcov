@@ -1,4 +1,4 @@
-MODEL KY996417 blastdb:"KY996417.vadr.protein.fa" group:"229E" length:"27270" lowsim_exc:"27270..27270:+"
+MODEL KY996417 blastdb:"KY996417.vadr.protein.fa" group:"229E" length:"27285"
 FEATURE KY996417 type:"gene" coords:"294..20584:+" parent_idx_str:"GBNULL" gene:"ORF1ab"
 FEATURE KY996417 type:"CDS" coords:"294..12536:+,12536..20584:+" parent_idx_str:"GBNULL" gene:"ORF1ab" canon_splice_sites:"1" product:"ORF1ab polyprotein" exception:"ribosomal slippage" note:"pp1ab; translated by -1 ribosomal frameshift"
 FEATURE KY996417 type:"CDS" coords:"294..12566:+" parent_idx_str:"GBNULL" gene:"ORF1ab" product:"ORF1a polyprotein" note:"pp1a"
