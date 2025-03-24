@@ -84,7 +84,7 @@ FEATURE AY884001 type:"CDS" coords:"27522..28193:+" parent_idx_str:"GBNULL" gene
 FEATURE AY884001 type:"gene" coords:"28209..29534:+" parent_idx_str:"GBNULL" gene:"N"
 FEATURE AY884001 type:"CDS" coords:"28209..29534:+" parent_idx_str:"GBNULL" gene:"N" product:"nucleocapsid protein"
 FEATURE AY884001 type:"CDS" coords:"28231..28848:+" parent_idx_str:"GBNULL" gene:"N" product:"internal protein"
-MODEL DQ415897 blastdb:"DQ415897.vadr.protein.fa" group:"HKU1" subgroup:"C" length:"29845"
+MODEL DQ415897 blastdb:"DQ415897.vadr.protein.fa" group:"HKU1" subgroup:"C" length:"29845" dupregin_exc:"3031..3450:+"
 FEATURE DQ415897 type:"gene" coords:"200..21687:+" parent_idx_str:"GBNULL" gene:"ORF1ab"
 FEATURE DQ415897 type:"CDS" coords:"200..13534:+,13534..21687:+" parent_idx_str:"GBNULL" gene:"ORF1ab" canon_splice_sites:"1" product:"ORF1ab polyprotein" exception:"ribosomal slippage" note:"pp1ab; translated by -1 ribosomal frameshift"
 FEATURE DQ415897 type:"CDS" coords:"200..13555:+" parent_idx_str:"GBNULL" gene:"ORF1ab" product:"ORF1a polyprotein" note:"pp1a"
