@@ -1,4 +1,4 @@
-MODEL NC_006577 blastdb:"NC_006577.vadr.protein.fa" group:"HKU1" subgroup:"A" length:"29926"
+MODEL NC_006577 blastdb:"NC_006577.vadr.protein.fa" group:"HKU1" subgroup:"A" length:"29926" dupregin_exc:"42..74:+,3038..3528:+,21751..21794:+,22921..22964:+,27007..27046:+"
 FEATURE NC_006577 type:"gene" coords:"206..21753:+" parent_idx_str:"GBNULL" gene:"ORF1ab"
 FEATURE NC_006577 type:"CDS" coords:"206..13600:+,13600..21753:+" parent_idx_str:"GBNULL" gene:"ORF1ab" canon_splice_sites:"1" product:"ORF1ab polyprotein" exception:"ribosomal slippage" note:"pp1ab; translated by -1 ribosomal frameshift"
 FEATURE NC_006577 type:"CDS" coords:"206..13621:+" parent_idx_str:"GBNULL" gene:"ORF1ab" product:"ORF1a polyprotein" note:"pp1a"
