@@ -30,11 +30,11 @@ Option A: Use a pre-built Docker image
 
 Option B: Install VADR from source
    
-   Alternatively, yo can download and install the latest version of VADR, following the instructions on the [VADR GitHub](https://github.com/ncbi/vadr/tree/master).
+   Alternatively, you can download and install the latest version of VADR, following the instructions on the [VADR GitHub](https://github.com/ncbi/vadr/tree/master).
    
 **2. Download the HCoV VADR Model**
  
-   Clone the latest HCoV VADR model (release v1.0)
+   Clone the latest HCoV VADR model (release v1.01)
    <br/>
    `git clone git@github.com:greninger-lab/vadr-models-hcov.git`
    <br/>
