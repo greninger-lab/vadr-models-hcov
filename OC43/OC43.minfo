@@ -49,4 +49,4 @@ FEATURE MT118678 type:"CDS" coords:"29092..30438:+" parent_idx_str:"GBNULL" gene
 FEATURE MT118678 type:"gene" coords:"29153..29776:+" parent_idx_str:"GBNULL" gene:"I" alternative_ftr_set:"internal(gene)" alternative_subn_set:"internal(CDS).1" misc_not_failure:"1"
 FEATURE MT118678 type:"gene" coords:"29153..29335:+" parent_idx_str:"GBNULL" gene:"I" alternative_ftr_set:"internal(gene)" alternative_subn_set:"internal(CDS).2" misc_not_failure:"1"
 FEATURE MT118678 type:"CDS" coords:"29153..29776:+" parent_idx_str:"GBNULL" gene:"I" product:"internal protein" alternative_ftr_set:"internal(CDS)" misc_not_failure:"1"
-FEATURE MT118678 type:"CDS" coords:"29153..29335:+" parent_idx_str:"GBNULL" gene:"N" product:"internal protein" alternative_ftr_set:"internal(CDS)" misc_not_failure:"1"
+FEATURE MT118678 type:"CDS" coords:"29153..29335:+" parent_idx_str:"GBNULL" gene:"I" product:"internal protein" alternative_ftr_set:"internal(CDS)" misc_not_failure:"1"
