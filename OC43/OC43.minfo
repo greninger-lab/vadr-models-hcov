@@ -38,7 +38,7 @@ FEATURE MT118678 type:"gene" coords:"27805..28134:+" parent_idx_str:"GBNULL" gen
 FEATURE MT118678 type:"CDS" coords:"27805..28134:+" parent_idx_str:"GBNULL" gene:"ns12.9" product:"non-structural protein 12.9"
 FEATURE MT118678 type:"gene" coords:"28121..28375:+" parent_idx_str:"GBNULL" gene:"E" alternative_ftr_set:"envelope(gene)" alternative_ftr_set_subn:"envelope(cds).1"
 FEATURE MT118678 type:"gene" coords:"28121..28379:+" parent_idx_str:"GBNULL" gene:"E" alternative_ftr_set:"envelope(gene)" alternative_ftr_set_subn:"envelope(cds).2"
-FEATURE MT118678 type:"gene" coords:"28121..28393:+" parent_idx_str:"GBNULL" gene:"E" alternative_ftr_set:"envelope(gene)" alternative_ftr_set_subn:"envelope(cds).2"
+FEATURE MT118678 type:"gene" coords:"28121..28393:+" parent_idx_str:"GBNULL" gene:"E" alternative_ftr_set:"envelope(gene)" alternative_ftr_set_subn:"envelope(cds).3"
 FEATURE MT118678 type:"CDS" coords:"28121..28375:+" parent_idx_str:"GBNULL" gene:"E" product:"envelope protein" alternative_ftr_set:"envelope(cds)"
 FEATURE MT118678 type:"CDS" coords:"28121..28379:+" parent_idx_str:"GBNULL" gene:"E" product:"envelope protein" alternative_ftr_set:"envelope(cds)"
 FEATURE MT118678 type:"CDS" coords:"28121..28393:+" parent_idx_str:"GBNULL" gene:"E" product:"envelope protein" alternative_ftr_set:"envelope(cds)"
